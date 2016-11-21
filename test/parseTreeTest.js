@@ -1,5 +1,5 @@
 var assert = require('assert');
-var parseTree = require('../parseTree.js');
+var parseTree = require('../assignment_1/parseTree.js');
 
 describe('parseTree', function() {
     it('should return expression of given tree', function() {
