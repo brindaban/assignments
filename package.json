@@ -1,0 +1,22 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment_1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brindaban/assignments.git"
+  },
+  "author": "brinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brindaban/assignments/issues"
+  },
+  "homepage": "https://github.com/brindaban/assignments#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
